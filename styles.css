@@ -1,7 +1,11 @@
 h1 {
     text-align: center;
+    color: blue;
+    font-size: 300%;
 }
 
 ul {
-    
+    text-align: center;
+    color: red;
+    font-size: 150%;
 }
